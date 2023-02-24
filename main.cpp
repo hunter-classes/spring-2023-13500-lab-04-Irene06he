@@ -9,8 +9,8 @@
 int main(){
 	//Task A
 	std::string result;
-	std::cout << "box(3,5):\n";
-	result = box(3,5);
+	std::cout << "box(7,4):\n";
+	result = box(7,4);
 	std::cout << result;
 	std::cout << "\n------------------\n";
 
@@ -29,10 +29,10 @@ int main(){
 	std::cout << "\n------------------\n";
 
 	//Task D
-	std::string final;
+	std::string triangle;
 	std::cout << "lower(6):\n";
-	final = lower(6);
-	std::cout << final;
+	triangle = lower(6);
+	std::cout << triangle;
 	std::cout << "\n------------------\n";
 
 	//Task E
